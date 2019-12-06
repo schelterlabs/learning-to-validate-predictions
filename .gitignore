@@ -1,0 +1,6 @@
+scratchspace/
+.idea/
+**/__pycache__/
+notebooks/.ipynb_checkpoints/
+black-box-models/autosklearn-adult-accuracy/model.joblib
+
