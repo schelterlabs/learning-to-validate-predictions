@@ -3,7 +3,7 @@ scipy
 numpy==1.14.6
 mlxtend==0.15.0.0
 xgboost==0.81
-tensorflow==1.15.2
+tensorflow==2.5.3
 matplotlib==3.0.0
 pandas==0.23.4
 Keras==2.2.4
