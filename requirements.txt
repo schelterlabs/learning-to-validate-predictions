@@ -1,6 +1,6 @@
 opencv-python
 scipy
-numpy==1.14.6
+numpy==1.22.0
 mlxtend==0.15.0.0
 xgboost==0.81
 tensorflow==1.15.2
