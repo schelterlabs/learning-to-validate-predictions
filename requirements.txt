@@ -7,5 +7,5 @@ tensorflow==1.15.2
 matplotlib==3.0.0
 pandas==0.23.4
 Keras==2.2.4
-joblib==0.13.2
+joblib==1.2.0
 scikit_learn==0.20.3
